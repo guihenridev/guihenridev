@@ -1,36 +1,14 @@
-### Hi there 👋
-
-<!--
-**guihenridev/guihenridev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h2>Olá! Sou Guilherme Henrique  😉</h2>
 
 <h3>👨‍💻 Sobre mim </h3>
 
-Sou programador javascript full-stack, graduando em sistemas de informação pela Universidade do Estado de Mato Grosso (UNEMAT) em Sinop.
-<br/>
-Através de estudos autônomos me tornei desenvolvedor web com uma stack moderna e capaz de aplicar na resolução dos mais diversos problemas, com javascript no backend e  frontend.
+Sou Desenvolvedor Web, formado em Ciência da Computação e Sistemas de Informação, pela Universidade Carlos Drummond de Andrade, em 2019. Foi quando decidi mudar meu foco para desenvolvimento web. <br>
 
- :rocket:  &nbsp; Atualmente estou trabalhando na **Vedas Sistemas**, atuando no desenvolvimento de um app para delivery.
+ :rocket:  Atuo como designer gráfico e designer digital há mais de 7 anos como freelancer, com conhecimento em Adobe Photoshop, Adobe InDesign, marketing digital, técnicas de SEO e social media.
  
  
 <h3>🛠️ Tecnologias</h3>
 
-- 💻 &nbsp;
-  ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
-  ![Ubuntu](https://img.shields.io/badge/-UbuntuServer-333333?style=flat&logo=ubuntu)
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -41,7 +19,7 @@ Através de estudos autônomos me tornei desenvolvedor web com uma stack moderna
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Terminal](https://img.shields.io/badge/-TerminalUnix-333333?style=flat&logo=powershell)
+  
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
@@ -62,4 +40,3 @@ Através de estudos autônomos me tornei desenvolvedor web com uma stack moderna
 <a href="https://www.instagram.com/venettconsulting/"><img src="https://img.shields.io/badge/-@venettoconsulting-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/venettoconsulting"><img src="https://img.shields.io/badge/-@venettoconsulting-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 </p>
-
