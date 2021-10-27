@@ -2,7 +2,7 @@
 
 <h3>👨‍💻 Sobre mim </h3>
 
-Sou Desenvolvedor Web, formado em Ciência da Computação e Sistemas de Informação, pela Universidade Carlos Drummond de Andrade, em 2019. Foi quando decidi mudar meu foco para desenvolvimento web. <br>
+Sou Desenvolvedor Web, formado em Ciência da Computação e Sistemas de Informação, pela Universidade Carlos Drummond de Andrade, em 2019. <br>
 
  :rocket:  Atuo como designer gráfico e designer digital há mais de 7 anos como freelancer, com conhecimento em Adobe Photoshop, Adobe InDesign, marketing digital, técnicas de SEO e social media.
  
